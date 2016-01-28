@@ -1,0 +1,12 @@
+\select@language {polish}
+\select@language {polish}
+\contentsline {section}{\numberline {1}Funkcje}{2}
+\contentsline {subsection}{\numberline {1.1}Funkcja Dirchleta}{2}
+\contentsline {subsubsection}{\numberline {1.1.1}W\IeC {\l }a\IeC {\'s}ciwo\IeC {\'s}ci}{2}
+\contentsline {subsection}{\numberline {1.2}Funkcja Riemanna}{2}
+\contentsline {section}{\numberline {2}Ciekawostki}{3}
+\contentsline {subsection}{\numberline {2.1}Rodzaje funkcji liczbowych}{3}
+\contentsline {subsection}{\numberline {2.2}Warto\IeC {\'s}ci funkcji trygonometrycznych}{3}
+\contentsline {subsection}{\numberline {2.3}Znak funkcji trygonometrycznych w uk\IeC {\l }adzie}{3}
+\contentsline {subsection}{\numberline {2.4}Wykres fukncji $\qopname \relax o{sin}$}{4}
+\contentsline {subsection}{\numberline {2.5}Funkcja logarytmiczna}{4}
